@@ -27,7 +27,7 @@ SCRUM s'articule autour d'un ensemble d'événements dont :
 - la Sprint Restrospective : 
 
 # Unrailed :train2:
-![Unrailed](https://fabienfauvelet.github.io/blog//assets/images/unrailed.jpg)
+![Unrailed](https://fabienfauvelet.github.io/blog/assets/images/unrailed.jpg)
 *Unrailed un jeu développé par [Indoor Astronaut](https://indoorastronaut.ch/) et publié par [Daedalic Entertainment](https://www.daedalic.com/) et [blibili](http://game.bilibili.com/unrailed/)*
 
 Disponible sur [Steam](https://store.steampowered.com/app/1016920/Unrailed/)
