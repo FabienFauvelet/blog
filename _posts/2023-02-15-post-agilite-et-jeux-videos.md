@@ -27,14 +27,14 @@ SCRUM s'articule autour d'un ensemble d'événements dont :
 - la Sprint Restrospective : 
 
 # Unrailed :train2:
-![Unrailed](../assets/images/unrailed.jpg)
+![Unrailed](https://fabienfauvelet.github.io/blog//assets/images/unrailed.jpg)
 *Unrailed un jeu développé par [Indoor Astronaut](https://indoorastronaut.ch/) et publié par [Daedalic Entertainment](https://www.daedalic.com/) et [blibili](http://game.bilibili.com/unrailed/)*
 
 Disponible sur [Steam](https://store.steampowered.com/app/1016920/Unrailed/)
 ## Règles du jeu
 Les règles du jeu sont relativement simples, vous êtes entre 2 et 4 joueurs et votre train doit atteindre la prochaine gare. Vous construisez les rails en même temps que le train avance. Si le train déraille, c'est game over. 
 
-![Unrailed](https://unrailed-game.com/Gameplay_cmp.mp4)
+![Unrailed video](https://unrailed-game.com/Gameplay_cmp.mp4)
 
 C'est un jeu simple à comprendre mais difficile à maitriser. :wink:
 ### Le sprint planning (la préparation)
