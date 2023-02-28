@@ -20,6 +20,7 @@ Petite piqure de rappel sur ce qu'est l'agilité :
 > Qu'est-ce que l'agilité si ce n'est avant tout l'histoire d'une équipe qui dans un contexte avec ses contraintes va itérativement s'améliorer pour atteindre un objectif.
 >
 > -- <cite>[James Fourboul](https://www.linkedin.com/in/jamesfourboul/), Coach Agile</cite>
+
 ## Ce qu'il faut savoir
 SCRUM s'articule autour d'un ensemble d'événements dont : 
 - le Sprint Planning :
