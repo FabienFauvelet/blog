@@ -24,10 +24,10 @@ En tant que joueur à mes heures perdues, en parlant agilité, un jeu me vient n
 > -- <cite>[James Fourboul](https://www.linkedin.com/in/jamesfourboul/), Coach Agile</cite>
 
 ## Ce qu'il faut savoir
-La suite de cet article fera référence à 3 événements que l'on retrouve dans le framework : 
+La suite de cet article fera référence à 3 événements que l'on retrouve dans le framework SCRUM : 
 - **le Sprint** : Il d'agit d'un temps d'une durée fixe, d'un mois ou moins qui a pour but de contribuer à atteindre "l'Objectif de Produit";
 - **le Sprint Planning** : Le Sprint Planning lance le Sprint en présentant le  travail à effectuer durant le Sprint. Le plan qui en résulte pour réalisé ce travail est créé de manière collaborative dans l'équipe;
-- **la Sprint Restrospective** : L'objectif de la Sprint Retrospective consiste à réfléchir à des pistes pour améliorer la qualité et l'efficacit à partir des observations du dernier Sprint.
+- **la Sprint Restrospective** : L'objectif de la Sprint Retrospective consiste à réfléchir à des pistes pour améliorer la qualité et l'efficacité à partir des observations du dernier Sprint.
 
 Pour plus de détails vois [Scrum.org](https://www.scrum.org)
 
