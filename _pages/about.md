@@ -3,6 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Ma citation préférée : 
+> « Le seule chose que je sais, c'est que je ne sais rien. »
+>
+> -- <cite>Socrate</cite>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Car une journée sans apprendre est une journée de perdue, et plus j'avance plus j'ai envie de découvrir de nouvelles choses.
+
+Dans ce blog on parlera de tout ce qui peut avoir un rapport de près ou de loin avec l'informatique. Toutes ces pensées ou généralement on me répond "Oulah... t'es parti loin là non ?"
